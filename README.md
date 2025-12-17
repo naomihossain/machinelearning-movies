@@ -36,10 +36,12 @@ Cleaning Dataset:
 * created a varaible hit_or_flop
 * after labeling, revenue was dropped
 
+## Target Variable
 Hit_or_Flop Variable:
 Since we did not have a label for success we created a binary variable, hit_or_flop, based on profitablity:
 * 'Hit" if revenue > budget
 * 'flop' otherwise
+
 
 
 
