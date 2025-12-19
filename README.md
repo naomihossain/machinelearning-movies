@@ -1,4 +1,4 @@
-# machinelearning-movies
+# Machine Learning - Movies Prediction Model
 
 ## Objective
 Build a Machine Learning Model that predicts whether a movie will be a hit or flop based on key features.
