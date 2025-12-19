@@ -42,6 +42,7 @@ Since we did not have a label for success we created a binary variable, hit_or_f
 * 'Hit" if revenue > budget
 * 'flop' otherwise
 
+<knb><img width="535" alt="screenshot 1" src="images/screenshot 1.png"></kmb>
 
 
 
